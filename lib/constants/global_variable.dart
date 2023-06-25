@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-String uri = 'https://amazon-clone-rrr.herokuapp.com/';
+String uri = 'https://git.heroku.com/lit-tundra-31470.git';
 
 class GlobalVariable {
   static const colorGradient = LinearGradient(colors: [
