@@ -6,8 +6,6 @@ import 'package:app_food/feature/home/widgets/popular_product.dart';
 import 'package:app_food/model/product.dart';
 import 'package:flutter/material.dart';
 
-import '../../search/screens/search_screen.dart';
-
 class CategoryScreen extends StatefulWidget {
   final String category;
   static const String routeName = "/category";
